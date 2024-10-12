@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a fresh graduate with a degree in Communication and Electronics Engineering from Alexandria University, class of 2023. I had a Frontend development from  UN Women - Egyptian Council. 
 
 <!--
 **hend-elsayed-github/hend-elsayed-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
