@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am a fresh graduate with a degree in Communication and Electronics Engineering from Alexandria University, class of 2023. I had a Frontend development internship from  UN Women - Egyptian Council. 
-Currently studying software development at ITI.
+I am a software developer interested in Networks with a degree in Communication and Electronics Engineering from Alexandria University, class of 2023. 
+Currently studying Full stack development using .net at ITI.
 
 <!--
 **hend-elsayed-github/hend-elsayed-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
