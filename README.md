@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software developer interested in Networks with a degree in Communication and Electronics Engineering from Alexandria University, class of 2023. 
+I am a software developer with a degree in Communication and Electronics Engineering from Alexandria University, class of 2023. 
 Currently studying Full stack development using .net at ITI.
 
 <!--
